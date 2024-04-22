@@ -5,7 +5,6 @@
         <li>Nama Depan : Rizki Syahwal</li>
         <li>Nama Belakang : Ludiansyah</li>
     </ul>
-   
 
     <h4>Alamat</h4>
     <ul type="circle">
