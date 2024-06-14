@@ -40,13 +40,10 @@
                     <button class="btn btn-dark" onclick="window.history.go(-1)"> Kembali</button>
                 </div>
             </div>
-
             </form>
         </div>
     </div>
-
 </div>
 <!-- /.container-fluid -->
-
 </div>
 <!-- End of Main Content -->
